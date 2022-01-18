@@ -1,0 +1,1 @@
+The data set is publicly available for download ( https://www.kaggle.com/puneet6060/intel-image-classification ). The data was made available by Intel for the development and usage of image recognition algorithms and was initially posted as a challenge at Analytics Vidhya ( https://datahack.analyticsvidhya.com/contest/practice-problem-intel-scene-classification- challe/ ).
